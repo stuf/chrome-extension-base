@@ -1,0 +1,7 @@
+{
+  "name": "chrome-extension-base",
+  "dependencies": {},
+  "globalDependencies": {
+    "chrome": "registry:dt/chrome#0.0.0+20170323135751"
+  }
+}
