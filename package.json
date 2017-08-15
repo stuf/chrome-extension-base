@@ -4,6 +4,19 @@
   "main": "index.js",
   "author": "Stefan Rimaila <stefan@rimaila.fi>",
   "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/stuf/chrome-extension-base.git"
+  },
+  "bugs": {
+    "url": "https://github.com/stuf/chrome-extension-base/issues"
+  },
+  "keywords": [
+    "chrome",
+    "extension",
+    "boilerplater",
+    "frp"
+  ],
   "scripts": {
     "start": "npm run build:watch",
     "build:watch": "webpack --config config/webpack.config.js --watch --progress"
